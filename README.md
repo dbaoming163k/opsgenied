@@ -1,0 +1,2 @@
+# opsgenied
+Terraform OpsGenie provider
